@@ -1,6 +1,6 @@
 Name:		texlive-minim-hatching
-Version:	62395
-Release:	2
+Version:	70885
+Release:	1
 Summary:	Create tiling patterns with the minim-mp MetaPost processor
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/minim-hatching
