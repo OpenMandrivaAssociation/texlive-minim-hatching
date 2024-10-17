@@ -3,7 +3,7 @@ Version:	70885
 Release:	1
 Summary:	Create tiling patterns with the minim-mp MetaPost processor
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/minim-hatching
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/minim-hatching
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/minim-hatching.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/minim-hatching.doc.r%{version}.tar.xz
